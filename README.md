@@ -47,7 +47,7 @@ This project directly addresses challenges in human-computer interaction, conten
 ```bash
 git clone https://github.com/OpenMLPhDResearch/Multimodal-Transformer-TensorFlow-Vision-Audio-Text.git
 cd Multimodal-Transformer-TensorFlow-Vision-Audio-Text
-pip install -r requirements.txt
+pip install -r requirements.txt ```
 
 
 ## 🧠 Contribution Guidelines
